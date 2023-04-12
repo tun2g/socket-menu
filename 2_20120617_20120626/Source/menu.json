@@ -1,0 +1,26 @@
+[
+    {
+        "food name":"bun gio heo",
+        "unit price":"120000",
+        "note":"",
+        "image":"a.jpg"
+    },
+    {
+        "food name":"bun bo",
+        "unit price":"100000",
+        "note":"",
+        "image":"b.jpg"
+    },
+    {
+        "food name":"banh canh ca loc",
+        "unit price":"110000",
+        "note":"",
+        "image":"c.jpg"
+    },
+    {
+    "food name":"banh canh cua",
+    "unit price":"120000",
+    "note":"",
+    "image":"d.jpg"
+    }
+]
